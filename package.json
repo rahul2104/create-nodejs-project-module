@@ -1,7 +1,7 @@
 {
   "name": "create-nodejs-project-module",
   "description": "Initialize a nodejs module with create-nodejs-module for this node structure(https://github.com/rahul2104/demo-node)",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "author": {
     "name": "Rahul Singh"
