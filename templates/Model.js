@@ -4,8 +4,6 @@ var constants = require("../../../constant");
 var Schema = mongoose.Schema;
 
 var StatesSchema = new Schema({
-    countryId:{ type: Schema.Types.ObjectId, ref: constants.DB_MODEL_REF.COUNTRIES },
-    stateId:{ type: Schema.Types.ObjectId, ref: constants.DB_MODEL_REF.STATES },
     stateName: { type: String,index:true},
     rangeName: { type: String,index:true},
     districtName: { type: String },
