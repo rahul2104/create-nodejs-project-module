@@ -31,7 +31,7 @@ yarn create nodejs-project-module <module name>
 ```
 yarn create is available in Yarn 0.25+
 
-##<a href="https://www.npmjs.com/package/create-nodejs-structure">Steps for creation node js structure</a>
+## <a href="https://www.npmjs.com/package/create-nodejs-structure">Steps for creation node js structure</a>
 
 [npm-image]: https://img.shields.io/npm/v/create-nodejs-project-module
 [npm-url]: https://www.npmjs.com/package/create-nodejs-project-module
